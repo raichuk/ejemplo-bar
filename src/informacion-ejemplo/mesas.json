@@ -1,0 +1,44 @@
+[
+  {
+    "mesaNro": 1,
+    "abierta": false,
+    "descuento": 0,
+    "comensales": 4
+  },
+  {
+    "mesaNro": 2,
+    "abierta": false,
+    "descuento": 0,
+    "comensales": 4
+  },
+  {
+    "mesaNro": 3,
+    "abierta": false,
+    "descuento": 0,
+    "comensales": 2
+  },
+  {
+    "mesaNro": 4,
+    "abierta": false,
+    "descuento": 0,
+    "comensales": 6
+  },
+  {
+    "mesaNro": 5,
+    "abierta": false,
+    "descuento": 0,
+    "comensales": 8
+  },
+  {
+    "mesaNro": 6,
+    "abierta": false,
+    "descuento": 0,
+    "comensales": 4
+  },
+  {
+    "mesaNro": 7,
+    "abierta": false,
+    "descuento": 0,
+    "comensales": 2
+  }
+]
